@@ -48,7 +48,7 @@ A continuación se presentan los submódulos de la organización junto con su di
 | `I2S_tx.v` | `0x470000 - 0x47FFFF` | Transmisor de audio digital I2S. |
 | `Display-Driver` | `0x480000 - 0x4FFFFF` | Driver para la gestión de pantalla, framebuffer y gráficos. |
 | `MAX7219-` | Auxiliar | Controlador para la matriz de LEDs. |
-| `MultijugadorRed` | Auxiliar | Módulo de comunicación por UART para partidas multijugador. |
+| `MultijugadorRed` | Auxiliar | Módulo de comunicación por Serial I/O para partidas multijugador. |
 | `.github` | N/A | Proyecto general del cubo de juegos con soporte de mandos. |
 | `defaultTemplate` | N/A | Plantilla base para desarrollar módulos individuales. |
 
