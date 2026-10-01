@@ -59,16 +59,14 @@ A continuación se presentan los submódulos de la organización junto con su di
 ### 1. Diagrama Central
 Flujo de control general y secuencia de funcionamiento del sistema.
 
-![Diagrama Central](ruta1)
-
+![Diagrama General](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_general.drawio.png)
 
 
 ### 2. Propuesta A: Lógica del Juego Integrada
 ---
 Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
 
-![Propuesta A - Lógica del Juego Integrada](ruta2)
-
+![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_logica_juegos.drawio.png)
 
 ### 3. Propuesta B: Modo Multijugador por Red Integrado
 ---
