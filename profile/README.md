@@ -47,6 +47,7 @@ A continuación se presentan los submódulos de la organización junto con su di
 | `I2C_Master` | `0x460000 - 0x46FFFF` | Módulo I2C Master para almacenamiento de puntajes y periféricos. |
 | `I2S_tx.v` | `0x470000 - 0x47FFFF` | Transmisor de audio digital I2S. |
 | `Display-Driver` | `0x480000 - 0x4FFFFF` | Driver para la gestión de pantalla, framebuffer y gráficos. |
+| `spiram_ctrl.v` | Por determinar | Controlador para la gestión de memoria RAM necesaria para la ejecución de procesos |
 | `MAX7219-` | Auxiliar | Controlador para la matriz de LEDs. |
 | `MultijugadorRed` | Auxiliar | Módulo de comunicación por Serial I/O para partidas multijugador. |
 | `.github` | N/A | Proyecto general del cubo de juegos con soporte de mandos. |
