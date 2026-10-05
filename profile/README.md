@@ -42,7 +42,7 @@ A continuación se presentan los submódulos de la organización junto con su di
 | `UART` | `0x400000 - 0x40FFFF` | Protocolo de comunicación UART base para depuración. |
 | `spi_flash_ctrl` | `0x420000 - 0x42FFFF` | Controlador para la memoria SPI Flash de almacenamiento. |
 | `ps2_keyboard.v` | `0x430000 - 0x43FFFF` | Driver y control para teclado PS2. |
-| `ps2_mouse` | `0x440000 - 0x44FFFF` | Driver para ratón PS2. |
+| `ps2_mouse` | `0x440000 - 0x44FFFF` | Driver para [Raton PS2](https://github.com/noNintendo2026/ps2_mouse) |
 | `nes_controller.v` | `0x450000 - 0x45FFFF` | Driver para controles de NES. |
 | `I2C_Master` | `0x460000 - 0x46FFFF` | Módulo I2C Master para almacenamiento de puntajes y periféricos. |
 | `I2S_tx.v` | `0x470000 - 0x47FFFF` | Transmisor de audio digital I2S. |
