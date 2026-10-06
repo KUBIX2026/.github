@@ -14,13 +14,19 @@ Repositorio principal de la organización enfocado en el diseño, arquitectura R
 <details open>
 <summary><b>Tabla de Contenidos</b></summary>
 
+* [Modelo Físico](#modelo-físico)
 * [Especificaciones del Proyecto](#especificaciones-del-proyecto)
 * [Módulos del Sistema y Mapa de Memoria](#módulos-del-sistema-y-mapa-de-memoria)
 * [Diagramas de Flujo](#diagramas-de-flujo)
-* [Modelo Físico](#modelo-físico)
 
 </details>
 
+
+
+## Modelo Físico
+---
+
+Espacio reservado para la descripción, especificaciones de la carcasa/chasis y vistas del modelo físico de la consola.
 
 
 ## Especificaciones del Proyecto
@@ -71,7 +77,3 @@ Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo 
 
 
 
-## Modelo Físico
----
-
-Espacio reservado para la descripción, especificaciones de la carcasa/chasis y vistas del modelo físico de la consola.
