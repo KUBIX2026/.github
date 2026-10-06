@@ -69,12 +69,6 @@ Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo 
 
 ![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_logica_juegos.drawio.png)
 
-### 3. Propuesta B: Modo Multijugador por Red Integrado
----
-Propuesta enfocada en la integración del módulo de red serial para sincronizar partidas multijugador.
-
-![Propuesta B - Modo Multijugador por Red Integrado](ruta3)
-
 
 
 ## Modelo Físico
