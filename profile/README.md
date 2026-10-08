@@ -178,7 +178,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 
 | Integrante | Rol |
 |---|---|
-| _Nombre_ | _Rol_ |
+| Daniel Eduardo Ballén Baena | SPI_RAM |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
