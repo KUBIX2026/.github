@@ -128,15 +128,13 @@ La consola KUBIX estará compuesta por los elementos electrónicos y estructural
 
 
 
-## Especificaciones del Proyecto
+## Documentacion y bocetacion propuesta
 
 -[Visual fisica por secciones de KUBIX](BocetoKUBIX/Armado%20de%20consola.pdf)
-<embed src="./BocetoKUBIX/Armado%20de%20consola.pdf" width="100%" height="600px">
--[Tapas exterior e inferior]
-(BocetoKUBIX/Tapa%20Exterior.pdf)
-(BocetoKUBIX/Tapa%20Inferior.pdf)
-
-- 
+-[Tapa exterior](BocetoKUBIX/Tapa%20Exterior.pdf)
+-[Tapa inferior](BocetoKUBIX/Tapa%20Inferior.pdf)
+-[Sopirte yb platina](BocetoKUBIX/Soportes%20y%20laina%20de%20pantalla.pdf)
+-[Perspectiva 1](BocetoKUBIX/Completo1.idw) 
 
 ## Especificaciones del Proyecto
 
