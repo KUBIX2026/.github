@@ -175,7 +175,7 @@ A continuación se presentan los submódulos de la organización junto con su di
 ### 1. Diagrama Central
 Flujo de control general y secuencia de funcionamiento del sistema.
 
-![Diagrama General](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_general.drawio.png)
+![Disfruta_general](Imagenes/Diagrama_Flujo_General)
 
 
 ### 2. Propuesta A: Lógica del Juego Integrada
