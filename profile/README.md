@@ -175,8 +175,9 @@ A continuación se presentan los submódulos de la organización junto con su di
 ### 1. Diagrama Central
 Flujo de control general y secuencia de funcionamiento del sistema.
 
-![Disfruta_general](Imagenes/Diagrama_Flujo_General)
 
+
+<img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
 ### 2. Propuesta A: Lógica del Juego Integrada
 ---
