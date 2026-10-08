@@ -1,6 +1,6 @@
 <div align="center">
 
-![KUBIX](Imagenes/01-titulo.svg)
+![KUBIX](Imagenes/01-consola.svg)
 
 # KUBIX
 ### Tus juegos de siempre, con un nuevo reto!
