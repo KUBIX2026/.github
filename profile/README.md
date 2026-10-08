@@ -92,9 +92,9 @@ Un cubo, cuatro estciones, infinitas posibilidades:
 
 ---
 
-## Desarrollo conceptual y técnico del producto
+# Desarrollo conceptual y técnico del producto
 
-# Desarrollo de Consola de Videojuegos - Electrónica Digital I
+## Desarrollo de Consola de Videojuegos - Electrónica Digital I
 
 
 [![UNal](https://img.shields.io/badge/Universidad-Nacional%20de%20Colombia-003366.svg)](https://unal.edu.co)
