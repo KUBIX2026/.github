@@ -122,7 +122,7 @@ Repositorio principal de la organización enfocado en el diseño, arquitectura R
 ## Modelo Físico
 
 
-![Un primer vistazo](Render/Concepto-01.jpeg)
+![Un primer vistazo](Render/ConsolaCopcepto-1.png)
 
 La consola KUBIX estará compuesta por los elementos electrónicos y estructurales necesarios para su funcionamiento. En su interior contará con las entradas y conexiones previamente definidas, una fuente de alimentación encargada de suministrar energía al sistema y las pantallas que conformarán la interfaz visual de la consola. La estructura exterior estará fabricada mediante una combinación de piezas de acrílico y componentes elaborados mediante impresión 3D en filamento, buscando proporcionar resistencia, estabilidad y una apariencia adecuada al diseño. Finalmente, las diferentes partes de la estructura serán ensambladas y aseguradas mediante pines y tornillos, permitiendo mantener un montaje firme y, al mismo tiempo, facilitar el acceso a los componentes internos cuando sea necesario.
 
