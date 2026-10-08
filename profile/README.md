@@ -33,7 +33,7 @@ Cada estación tiene una pantalla a color de **64 × 64 píxeles**, con la esté
 
 ## Experimenta el juego de la manera que quieras
 
-QGame es compatible con distintos tipos de periféricos. 
+KUBIX es compatible con distintos tipos de periféricos. 
 
 Cada estación incluye:
 
