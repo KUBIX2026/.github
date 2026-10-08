@@ -127,6 +127,12 @@ Repositorio principal de la organización enfocado en el diseño, arquitectura R
 La consola KUBIX estará compuesta por los elementos electrónicos y estructurales necesarios para su funcionamiento. En su interior contará con las entradas y conexiones previamente definidas, una fuente de alimentación encargada de suministrar energía al sistema y las pantallas que conformarán la interfaz visual de la consola. La estructura exterior estará fabricada mediante una combinación de piezas de acrílico y componentes elaborados mediante impresión 3D en filamento, buscando proporcionar resistencia, estabilidad y una apariencia adecuada al diseño. Finalmente, las diferentes partes de la estructura serán ensambladas y aseguradas mediante pines y tornillos, permitiendo mantener un montaje firme y, al mismo tiempo, facilitar el acceso a los componentes internos cuando sea necesario.
 
 
+
+## Especificaciones del Proyecto
+![Visual fisica por secciones de KUBIX](ocetoKUBIX/Armado dee consola.pdf)
+
+- 
+
 ## Especificaciones del Proyecto
 
 El proyecto consiste en el desarrollo de una consola de juegos retro construida de forma colaborativa sobre una arquitectura SoC en FPGA. El sistema utiliza un procesador RISC-V de 32 bits (RV32I / femtorv32) ejecutado como caja negra, el cual corre la lógica principal del juego programada en C y controla cada uno de los periféricos en hardware mediante un bus de direcciones y registros mapeados en memoria. Para la salida visual, la consola implementa una arquitectura distribuida de 4 pantallas independientes, donde cada una dispone de su propia FPGA dedicada para el procesamiento y renderizado gráfico.
