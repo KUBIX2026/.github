@@ -1,6 +1,6 @@
 <div align="center">
 
-![KUBIX](Imagenes/01-consola.svg)
+![KUBIX](Imagenes/02-logo.svg)
 
 # KUBIX
 ### Tus juegos de siempre, con un nuevo reto!
@@ -17,7 +17,7 @@ KUBIX es la nueva consola de videojuegos retro y multijugador, pensada para **co
 
 Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañía: contra un amigo en la misma pantalla o entre otras pantallas conectadas.
 
-![Disfruta de KUBIX](Imagenes/02-descripcion.svg)
+![Disfruta de KUBIX](Imagenes/01-consola.svg)
 
 > **4 lados. hasta 8 jugadores. Diferentes juegos. Un espacio, ua sola consola.**
 
@@ -27,7 +27,7 @@ Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañ�
 
 Cada estación tiene una pantalla a color de **64 × 64 píxeles**, con la estética clasica de píxel de los arcades clásicos. En total son **4 pantallas** independientes, Inicia las pantallas y los juegos que quieras, en el momento que qieras.
 
-![Pantallas de KUBIX](Imagenes/03-pantallas.svg)
+![Pantallas de KUBIX](Imagenes/04-pantallas-auxiliares.svg)
 
 ---
 
@@ -42,7 +42,7 @@ Cada estación incluye:
 
 Así cada jugador elige cómo jugar a su maximo nivel.
 
-![Controles compatibles](Imagenes/04-controles.svg)
+![Controles compatibles](Imagenes/03-conectividad.svg)
 
 ---
 
@@ -58,7 +58,7 @@ Así cada jugador elige cómo jugar a su maximo nivel.
 
 *Y muchos más en camino...*
 
-![Juegos de KUBIX](Imagenes/05-juegos.svg)
+![Juegos de KUBIX](Imagenes/06-juegos.svg)
 
 <!-- Debemos agregar una captura por juego y confirmar cuáles quedan en modo multijugador -->
 
@@ -72,7 +72,7 @@ Un cubo, cuatro estciones, infinitas posibilidades:
 - **Dos en una pantalla:** comparte la emoción con un amigo en el mismo lado del cubo.
 - **Entre pantallas:** conecta las 4 pantallas y vive la experiencia multijugador en un mismo juego.
 
-![Modos de juego](Imagenes/06-modos.svg)
+![Modos de juego](Imagenes/05-modos.svg)
 
 ---
 
