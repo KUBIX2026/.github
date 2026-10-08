@@ -1,8 +1,8 @@
 <div align="center">
 
-![QGame](Imagenes/01-titulo.svg)
+![KUBIX](Imagenes/01-titulo.svg)
 
-# QGame
+# KUBIX
 ### Tus juegos de siempre, con un nuevo reto!
 
 **Juega · Comparte · Disfruta**
@@ -11,13 +11,13 @@
 
 ---
 
-## ¿Qué es QGame?
+## ¿Qué es KUBIX?
 
-QGame es una consola de videojuegos retro multijugador, pensada para **compartir y retarse**. Su diseño en forma de cubo pone una pantalla en cada una de sus cuatro caras laterales, para que cada lado sea una estación de juego donde todos puedan divertirsde alrededor del mismo equipo, ya sea compartiendo o poniendo a prueba sus habilidades.
+KUBIX es la nueva consola de videojuegos retro y multijugador, pensada para **compartir y retarse**. Su diseño en forma de cubo pone una pantalla en cada una de sus cuatro caras laterales, para que cada lado sea una estación de juego donde todos puedan divertirsde alrededor del mismo equipo, ya sea compartiendo o poniendo a prueba sus habilidades.
 
 Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañía: contra un amigo en la misma pantalla o entre otras pantallas conectadas.
 
-![Descripción de QGame](Imagenes/02-descripcion.svg)
+![Disfruta de KUBIX](Imagenes/02-descripcion.svg)
 
 > **4 lados. hasta 8 jugadores. Diferentes juegos. Un espacio, ua sola consola.**
 
@@ -27,9 +27,7 @@ Podras disfrutar de los clásicos de siempre, pero esta vez juegalos en compañ�
 
 Cada estación tiene una pantalla a color de **64 × 64 píxeles**, con la estética clasica de píxel de los arcades clásicos. En total son **4 pantallas** independientes, Inicia las pantallas y los juegos que quieras, en el momento que qieras.
 
-![Pantallas de QGame](Imagenes/03-pantallas.svg)
-
-<!-- Tenems que reemplazar las imagenes de IA por capturas reales de los juegos en las pantallas del tipo que vamos a usar -->
+![Pantallas de KUBIX](Imagenes/03-pantallas.svg)
 
 ---
 
@@ -60,7 +58,7 @@ Así cada jugador elige cómo jugar a su maximo nivel.
 
 *Y muchos más en camino...*
 
-![Juegos de QGame](Imagenes/05-juegos.svg)
+![Juegos de KUBIX](Imagenes/05-juegos.svg)
 
 <!-- Debemos agregar una captura por juego y confirmar cuáles quedan en modo multijugador -->
 
