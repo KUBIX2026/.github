@@ -149,7 +149,7 @@ A continuación se presentan los submódulos de la organización junto con su di
 | [`ps2_mouse`](https://github.com/noNintendo2026/ps2_mouse.git) | `0x440000 - 0x44FFFF` | Driver para Raton PS2 |
 | [`nes_controller.v`](https://github.com/noNintendo2026/nes_controller.v.git) | `0x450000 - 0x45FFFF` | Driver para controles de NES. |
 | [`I2C_Master`](https://github.com/noNintendo2026/I2C_Master.git) | `0x460000 - 0x46FFFF` | Módulo I2C Master para almacenamiento de puntajes y periféricos. |
-| [`I2S_tx.v`] (https://github.com/noNintendo2026/I2S_tx.v.git)| `0x470000 - 0x47FFFF` | Transmisor de audio digital I2S. |
+| [`I2S_tx.v`](https://github.com/noNintendo2026/I2S_tx.v.git)| `0x470000 - 0x47FFFF` | Transmisor de audio digital I2S. |
 | [`Display-Driver`](https://github.com/noNintendo2026/Display-Driver.git)| `0x480000 - 0x4FFFFF` | Driver para la gestión de pantalla, framebuffer y gráficos. |
 | [`spiram_ctrl.v`](https://github.com/noNintendo2026/spiram_ctrl.v.git) | Por determinar | Controlador para la gestión de memoria RAM necesaria para la ejecución de procesos |
 | [`MAX7219-`](https://github.com/noNintendo2026/MAX7219-.git) | Auxiliar | Controlador para la matriz de LEDs. |
