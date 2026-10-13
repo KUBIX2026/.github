@@ -190,7 +190,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Daniel Gustavo Arango Yela <br> Juan Sebastián Rincon Aguilera <br> David Fernando Fuquene Alvarez| PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
 | Juana Valentina Saavedra Ramirez <br> Manuel Alejandro Velasco Marinez| NES_CONTROLER | G | https://github.com/KUBIX2026/nes_controller.git|
 | _Nombres_| I2C_MASTER | H | https://github.com/KUBIX2026/I2C_Master.git |
-| _Nombres_| I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
+| José Miguel Ramirez Rubiano| I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
 | _Nombres_| DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
 | _Nombres_| SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | L | https://github.com/KUBIX2026/MultijugadorRed.git |
