@@ -157,12 +157,17 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 
 | Nomenclatura | Descripción | Repositorio |
 |---|---|---|
-| _N_ | SPI_RAM | |
-| _N_ | PS2_Keyboard | |
-| _N_ | _Descripcion | |
-| _N_ | Multijugador de Red| https://github.com/KUBIX2026/MultijugadorRed.git |
-| _N_ | UART | |
-| _N_ | Pantalla auxiliar MAX7219 | |
+| Grupo B | UART | https://github.com/KUBIX2026/UART.git |
+| Grupo C | SPI_RAM | https://github.com/KUBIX2026/SPI_RAM.git |
+| Grupo D | SPI_FLASH_CTRL | https://github.com/KUBIX2026/spi_flash_ctrl.git |
+| Grupo E | PS2_KEYBOARD |https://github.com/KUBIX2026/PS2_keyboard.git |
+| Grupo F | PS2_MOUSE | https://github.com/KUBIX2026/ps2_mouse.git |
+| Grupo G | NES_CONTROLER | https://github.com/KUBIX2026/nes_controller.git|
+| Grupo H | I2C_MASTER | https://github.com/KUBIX2026/I2C_Master.git |
+| Grupo I | I2S_TX |https://github.com/KUBIX2026/I2S_tx.v.git |
+| Grupo J | DISPLAY_DRIVER| https://github.com/KUBIX2026/Display-Driver.git |
+| Grupo K | SOFTWARE_JUEGOS | https://github.com/KUBIX2026/software_juegos.git |
+| Grupo H | MULTIJUGADOR_RED| https://github.com/KUBIX2026/MultijugadorRed.git |
 
 
 
