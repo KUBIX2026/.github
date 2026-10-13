@@ -156,6 +156,10 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 <img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
 
+<img width="843" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal (1)" src="https://github.com/user-attachments/assets/c428246c-f261-4630-bbbd-1836739f8eb5" />
+
+
+<img width="960" height="1406" alt="Diagrama de Flujo-Página-19" src="https://github.com/user-attachments/assets/0946e6d4-2589-4235-91a4-30002bd9e3b6" />
 
 
 
