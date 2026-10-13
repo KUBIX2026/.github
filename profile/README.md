@@ -156,11 +156,12 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 <img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
 
-<img width="843" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal (1)" src="https://github.com/user-attachments/assets/c428246c-f261-4630-bbbd-1836739f8eb5" />
+---
 
+<img width="842" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal (2)" src="https://github.com/user-attachments/assets/b8c80aeb-0255-431c-84e0-1ed395474478" />
 
-<img width="960" height="1406" alt="Diagrama de Flujo-Página-19" src="https://github.com/user-attachments/assets/0946e6d4-2589-4235-91a4-30002bd9e3b6" />
-
+---
+<img width="730" height="1406" alt="Diagrama de Flujo-Página-21" src="https://github.com/user-attachments/assets/cb49e765-5cdc-47ce-80d7-d9c0d210693d" />
 
 
 ### 2. Propuesta A: Lógica del Juego Integrada
