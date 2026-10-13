@@ -192,16 +192,17 @@ QGame- KUBIX/
 
 Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Nacional de Colombia.
 
-| Integrante | Rol | Grupo |
-|---|---|---|
-| Daniel Eduardo Ballén Baena | SPI_RAM | C |
-| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E |
-|Jose Miguel Ramirez Rubiano| I2S | I|
-|  Juan Felipe Prado Gordillo <br> Elkin Herrera, Gabriel Roa <br> Samuel| I2C | H |
-| Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART_Pantalla_M5STACK | B |
-| Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | Multijugador de Red |
-| David Hoyos <br> Gabriel Leguizamón| Pantalla auxiliar MAX7219 |
-
-
-
-
+| Integrante | Descripción | Grupo | Repositorio |
+|---|---|---|---|
+| Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART | B | https://github.com/KUBIX2026/UART.git |
+| Daniel Eduardo Ballén Baena | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
+|  | SPI_FLASH_CTRL | D |https://github.com/KUBIX2026/spi_flash_ctrl.git |
+| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E | https://github.com/KUBIX2026/PS2_keyboard.git |
+|  | PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
+| _Nombre_ | NES_CONTROLER | G | https://github.com/KUBIX2026/nes_controller.git|
+| _Nombre_ | I2C_MASTER | H | https://github.com/KUBIX2026/I2C_Master.git |
+|  | I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
+|  | DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
+|  | SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
+| Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | H | https://github.com/KUBIX2026/MultijugadorRed.git |
+| David Hoyos <br> Gabriel Leguizamón| AUXILIAR_MAX7219 | I |  |
