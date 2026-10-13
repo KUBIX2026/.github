@@ -182,7 +182,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño| PS2_Keyboard |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
-| Elkin Giovany Romero Romero | UART |
+| Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | Multijugador de Red |
 | David Hoyos <br> Gabriel Leguizamón| Pantalla auxiliar MAX7219 |
 
