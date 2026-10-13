@@ -166,12 +166,13 @@ Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo 
 ![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_logica_juegos.drawio.png)
 
 
-```
-QGame- KUBIX/
 
 
-```
+### Diagramas desglosados de cada tarea del diagrama principal
 
+Esta es una propuesta para las 2 primeras acciones descritas en el diagrama de flujo central, las cuales son la verificacion de hardware y la carga del primer menu
+
+![Desglose de tareas del diagrama principal](Imagenes/desglose_de_tareas_del_diagrama_principal.png)
 <!-- Agregar: Diagrama de flujo general del proyecto, diagramas especificos de caseccion por asignacion de grupo, diagramas de bloques y de mas que consideremos   -->
 
 ---
