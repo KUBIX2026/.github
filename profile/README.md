@@ -160,7 +160,7 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 <img width="1411" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal" src="https://github.com/user-attachments/assets/0b1e1913-7aa2-4953-b0ae-308d8fd2627b" />
 
 
-### 2. Propuesta A: Lógica del Juego Integrada
+### 2. Lógica del Juego Integrada
 ---
 Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
 
@@ -183,7 +183,6 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 
 | Integrante | Descripción | Grupo | Repositorio |
 |---|---|---|---|
-|||A||
 | Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART | B | https://github.com/KUBIX2026/UART.git |
 | Daniel Eduardo Ballén Baena | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
 | Jhon Dairon Canizalez Arias <br> Edwin Franco Sanchez <br> Carlos Alfonso Mahecha Gonzalez| SPI_FLASH_CTRL | D |https://github.com/KUBIX2026/spi_flash_ctrl.git |
