@@ -197,7 +197,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Daniel Eduardo Ballén Baena | SPI_RAM | C |
 | Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E |
 |Jose Miguel Ramirez Rubiano| I2S | I|
-| _Nombre_ | _Rol_ |
+|  Juan Felipe Prado Gordillo <br> Elkin Herrera, Gabriel Roa <br> Samuel| I2C | H |
 | Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART_Pantalla_M5STACK | B |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | Multijugador de Red |
 | David Hoyos <br> Gabriel Leguizamón| Pantalla auxiliar MAX7219 |
