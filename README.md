@@ -1,4 +1,4 @@
-# Proyecto KUBIX ELECTRONICA DIGITAL 1
+# Proyecto KUBIX ELECTRóNICA DIGITAL 1
 
 Este proyecto consiste en el diseño e implementación de un sistema inspirado en la consola Game Boy utilizando una FPGA, integrando módulos de control, comunicación y gestión de periféricos para permitir el funcionamiento coordinado del hardware.
 
