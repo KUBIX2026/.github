@@ -187,7 +187,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Daniel Eduardo Ballén Baena | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
 | Jhon Dairon Canizalez Arias <br> Edwin Franco Sanchez <br> Carlos Alfonso Mahecha Gonzalez| SPI_FLASH_CTRL | D |https://github.com/KUBIX2026/spi_flash_ctrl.git |
 | Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E | https://github.com/KUBIX2026/PS2_keyboard.git |
-| _Nombres_| PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
+| Daniel Gustavo Arango Yela <br> Juan Sebastián Rincon Aguilera <br> David Fernando Fuquene Alvarez| PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
 | _Nombres_| NES_CONTROLER | G | https://github.com/KUBIX2026/nes_controller.git|
 | _Nombres_| I2C_MASTER | H | https://github.com/KUBIX2026/I2C_Master.git |
 | _Nombres_| I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
