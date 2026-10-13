@@ -187,13 +187,13 @@ QGame- KUBIX/
 
 Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Nacional de Colombia.
 
-| Integrante | Rol |
-|---|---|
-| Daniel Eduardo Ballén Baena | SPI_RAM |
-| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard |
+| Integrante | Rol | Grupo |
+|---|---|---|
+| Daniel Eduardo Ballén Baena | SPI_RAM | C |
+| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
-| Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART |
+| Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART | B |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | Multijugador de Red |
 | David Hoyos <br> Gabriel Leguizamón| Pantalla auxiliar MAX7219 |
 
