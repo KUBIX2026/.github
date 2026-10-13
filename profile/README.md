@@ -167,7 +167,7 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 | Grupo I | I2S_TX |https://github.com/KUBIX2026/I2S_tx.v.git |
 | Grupo J | DISPLAY_DRIVER| https://github.com/KUBIX2026/Display-Driver.git |
 | Grupo K | SOFTWARE_JUEGOS | https://github.com/KUBIX2026/software_juegos.git |
-| Grupo H | MULTIJUGADOR_RED| https://github.com/KUBIX2026/MultijugadorRed.git |
+| Grupo L | MULTIJUGADOR_RED| https://github.com/KUBIX2026/MultijugadorRed.git |
 
 
 
@@ -204,5 +204,5 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 |  | I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
 |  | DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
 |  | SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
-| Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | H | https://github.com/KUBIX2026/MultijugadorRed.git |
-| David Hoyos <br> Gabriel Leguizamón| AUXILIAR_MAX7219 | I |  |
+| Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | L | https://github.com/KUBIX2026/MultijugadorRed.git |
+| David Hoyos <br> Gabriel Leguizamón| AUXILIAR_MAX7219 | M |  |
