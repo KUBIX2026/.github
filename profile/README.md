@@ -155,6 +155,17 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 
 <img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
+| Nomenclatura | Descripción | Repositorio |
+|---|---|---|
+| _N_ | SPI_RAM | |
+| _N_ | PS2_Keyboard | |
+| _N_ | _Descripcion | |
+| _N_ | Multijugador de Red| https://github.com/KUBIX2026/MultijugadorRed.git |
+| _N_ | UART | |
+| _N_ | Pantalla auxiliar MAX7219 | |
+
+
+
 ### 2. Propuesta A: Lógica del Juego Integrada
 ---
 Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
