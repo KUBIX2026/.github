@@ -194,4 +194,4 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | _Nombres_| DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
 | _Nombres_| SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | L | https://github.com/KUBIX2026/MultijugadorRed.git |
-| David Hoyos <br> Gabriel Leguizamón| AUXILIAR_MAX7219 | M |  |
+| David Hoyos <br> Gabriel Leguizamón| AUXILIAR_MAX7219 | M | https://github.com/KUBIX2026/MAX7219-.git |
