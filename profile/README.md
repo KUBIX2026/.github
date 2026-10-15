@@ -157,7 +157,7 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 
 
 ---
-<img width="1411" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal" src="https://github.com/user-attachments/assets/0b1e1913-7aa2-4953-b0ae-308d8fd2627b" />
+<img width="1411" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal" src="profile/Imagenes/Diagrama de Flujo-desglose de tareas del diagrama principal.correccion1.png" />
 
 
 ### 2. Lógica del Juego Integrada
