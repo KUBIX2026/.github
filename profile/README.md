@@ -156,10 +156,11 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 <img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
 
+---
+<img width="1411" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal" src="https://github.com/KUBIX2026/.github/blob/bd59a2540aa2ae18cf0242c1b6613cef2c5d7a78/profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas%20del%20diagrama%20principal.correccion1.png" />
 
 
-
-### 2. Propuesta A: Lógica del Juego Integrada
+### 2. Lógica del Juego Integrada
 ---
 Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
 
@@ -182,7 +183,6 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 
 | Integrante | Descripción | Grupo | Repositorio |
 |---|---|---|---|
-|||A||
 | Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART | B | https://github.com/KUBIX2026/UART.git |
 | Daniel Eduardo Ballén Baena | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
 | Jhon Dairon Canizalez Arias <br> Edwin Franco Sanchez <br> Carlos Alfonso Mahecha Gonzalez| SPI_FLASH_CTRL | D |https://github.com/KUBIX2026/spi_flash_ctrl.git |
@@ -190,8 +190,8 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Daniel Gustavo Arango Yela <br> Juan Sebastián Rincon Aguilera <br> David Fernando Fuquene Alvarez| PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
 | Juana Valentina Saavedra Ramirez <br> Manuel Alejandro Velasco Marinez| NES_CONTROLER | G | https://github.com/KUBIX2026/nes_controller.git|
 | Juan Felipe Prado Gordillo <br> Gabriel Camilo Roa Berrio <br> Elkin Arley Herrera Herrera <br> Samuel Mauricio Zambrano Rodriguez| I2C_MASTER | H | https://github.com/KUBIX2026/I2C_Master.git |
-| José Miguel Ramirez Rubiano| I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
-| _Nombres_| DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
-| _Nombres_| SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
+| José Miguel Ramirez Rubiano <br> Gabriela Gordillo Camacho <br> Miguel Angel Pinto | I2S_TX | I | https://github.com/KUBIX2026/I2S_tx.v.git |
+| Felipe Diaz Gordillo | DISPLAY_DRIVER | J | https://github.com/KUBIX2026/Display-Driver.git |
+| Juan Camilo Guevara Hernandez <br> Freiman Santiago Cepeda Sanchez <br> Juan Camilo Rivera| SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | L | https://github.com/KUBIX2026/MultijugadorRed.git |
 | David Hoyos <br> Gabriel Leguizamón <br> María José Corredor <br> Jose Luis Gomez Sierra| AUXILIAR_MAX7219 | M | https://github.com/KUBIX2026/MAX7219-.git |
