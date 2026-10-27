@@ -58,7 +58,7 @@ Así cada jugador elige cómo jugar a su maximo nivel.
 
 *Y muchos más en camino...*
 
-![Juegos de KUBIX](Imagenes/06-juegos.svg)
+![Juegos de KUBIX](Imagenes/06-juegos.png)
 
 <!-- Debemos agregar una captura por juego y confirmar cuáles quedan en modo multijugador -->
 
@@ -164,8 +164,7 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 ---
 Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
 
-![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/nes_controller.v/main/img/diagrama_logica_juegos.drawio.png)
-
+![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/software_juegos/blob/main/docs/diagramas/Diagrama logica juegos.png)
 
 ```
 QGame- KUBIX/
