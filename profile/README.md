@@ -159,13 +159,6 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 ---
 <img width="1411" height="1681" alt="Diagrama de Flujo-desglose de tareas del diagrama principal" src="https://github.com/KUBIX2026/.github/blob/bd59a2540aa2ae18cf0242c1b6613cef2c5d7a78/profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas%20del%20diagrama%20principal.correccion1.png" />
 
-
-### 2. Lógica del Juego Integrada
----
-Propuesta que incluye el procesamiento de la lógica del juego dentro del flujo principal de control.
-
-![Diagrama Lógica de Juegos](https://raw.githubusercontent.com/noNintendo2026/software_juegos/blob/main/docs/diagramas/Diagrama logica juegos.png)
-
 ```
 QGame- KUBIX/
 
