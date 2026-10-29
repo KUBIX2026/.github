@@ -152,8 +152,8 @@ La interacción con el usuario soporta múltiples controles de entrada, incluyen
 Flujo de control general y secuencia de funcionamiento del sistema.
 
 
+<img width="977" height="1540" alt="Diagrama General" src="https://github.com/user-attachments/assets/9d475914-0791-44c3-b860-29aed294aa67" />
 
-<img width="977" height="1540" alt="Diagrama_Flujo_General" src="https://github.com/user-attachments/assets/7e0558ab-2d74-4192-b621-2d45bf82a44a" />
 
 
 ---
