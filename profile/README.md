@@ -157,7 +157,7 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 
 
 ---
-<img src="profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas.png" width="100%" alt="Diagrama de Flujo">
+<img width="100%" alt="Diagrama Desglose" src="https://github.com/user-attachments/assets/9d475914-0791-44c3-b860-29aed294aa67](https://github.com/KUBIX2026/.github/blob/1b831ea9a695ac18a739f9b3e3f07453923ef688/profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas.png" />
 
 
 <!-- Agregar: Diagrama de flujo general del proyecto, diagramas especificos de caseccion por asignacion de grupo, diagramas de bloques y de mas que consideremos   -->
