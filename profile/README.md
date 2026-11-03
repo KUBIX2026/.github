@@ -187,6 +187,5 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Juan Camilo Guevara Hernandez <br> Freiman Santiago Cepeda Sanchez <br> Juan Camilo Rivera <br> Marlon Samir Carrillo García | SOFTWARE_JUEGOS | K | https://github.com/KUBIX2026/software_juegos.git |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | MULTIJUGADOR_RED | L | https://github.com/KUBIX2026/MultijugadorRed.git |
 | David Hoyos <br> Gabriel Leguizamón <br> María José Corredor <br> Jose Luis Gomez Sierra| AUXILIAR_MAX7219 | M | https://github.com/KUBIX2026/MAX7219-.git |
-
 | Todos | MODEL_3D | x | https://github.com/KUBIX2026/Propuesta_Modelo_3D.git |
 
