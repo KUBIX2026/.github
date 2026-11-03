@@ -131,7 +131,7 @@ La consola KUBIX estará compuesta por los elementos electrónicos y estructural
 
 | Descripción | Repositorio |
 |---|---|
-| Propuesta abierta del modelo 3D conceptual de nuestra consola retro (prisma rectangular). El diseño ilustra la distribución de sus 4 caras: puertos PS2/NES y doble pantalla (panel 64x64 de 192mm para el juego y matriz LED 8x32 para el HUD/vida). Revisen el archivo 3D adjunto para debatir el diseño y llegar a un acuerdo. | https://github.com/KUBIX2026/UART.git |
+| Propuesta abierta del modelo 3D conceptual de nuestra consola retro (prisma rectangular). El diseño ilustra la distribución de sus 4 caras: puertos PS2/NES y doble pantalla (panel 64x64 de 192mm para el juego y matriz LED 8x32 para el HUD/vida). Revisen el archivo 3D adjunto para debatir el diseño y llegar a un acuerdo. | https://github.com/KUBIX2026/Propuesta_Modelo_3D |
 
 -[Visual fisica por secciones de KUBIX](BocetoKUBIX/Armado%20de%20consola.pdf)
 -[Tapa exterior](BocetoKUBIX/Tapa%20Exterior.pdf)
