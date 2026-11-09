@@ -176,9 +176,9 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Integrante | Descripción | Grupo | Repositorio |
 |---|---|---|---|
 | Elkin Giovany Romero Romero <br> Yamid Esteban Mavisoy Tandioy| UART | B | https://github.com/KUBIX2026/UART.git |
-| Daniel Eduardo Ballén Baena | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
+| Daniel Eduardo Ballén Baena <br> Andrés Felipe Hortúa Ñustes | SPI_RAM | C | https://github.com/KUBIX2026/SPI_RAM.git | 
 | Jhon Dairon Canizalez Arias <br> Edwin Franco Sanchez <br> Carlos Alfonso Mahecha Gonzalez| SPI_FLASH_CTRL | D |https://github.com/KUBIX2026/spi_flash_ctrl.git |
-| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño <br> Andrés Felipe Hortúa Ñustes| PS2_Keyboard | E | https://github.com/KUBIX2026/PS2_keyboard.git |
+| Iván Felipe Maluche Suarez <br> Kevin Javier Gonzalez Luna <br> Santiago Guillen Fandiño| PS2_Keyboard | E | https://github.com/KUBIX2026/PS2_keyboard.git |
 | Daniel Gustavo Arango Yela <br> Juan Sebastián Rincon Aguilera <br> David Fernando Fuquene Alvarez| PS2_MOUSE | F | https://github.com/KUBIX2026/ps2_mouse.git |
 | Juana Valentina Saavedra Ramirez <br> Manuel Alejandro Velasco Marinez| NES_CONTROLER | G | https://github.com/KUBIX2026/nes_controller.git|
 | Juan Felipe Prado Gordillo <br> Gabriel Camilo Roa Berrio <br> Elkin Arley Herrera Herrera <br> Samuel Mauricio Zambrano Rodriguez| I2C_MASTER | H | https://github.com/KUBIX2026/I2C_Master.git |
