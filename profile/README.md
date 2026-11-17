@@ -161,14 +161,14 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 
 
 ---
----
----
-<img width="100%" alt="Diagrama Desglose" src="https://raw.githubusercontent.com/KUBIX2026/.github/43e886371a4116417fa91ee9091440e938ab9df9/profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas.png" />
+<img width="100%" alt="Diagrama Desglose" src="https://raw.githubusercontent.com/KUBIX2026/.github/bbd6a3b3baf673801c9e59088d4859eb5d32a51a/profile/Imagenes/Diagrama%20de%20Flujo-desglose%20de%20tareas%20del%20diagrama%20principal.png" />
 
 <!-- Agregar: Diagrama de flujo general del proyecto, diagramas especificos de caseccion por asignacion de grupo, diagramas de bloques y de mas que consideremos   -->
-
 ---
-
+<p align="center">
+<img width="50%" alt="Diagrama de Bloques Desglose" src="https://raw.githubusercontent.com/KUBIX2026/.github/bbd6a3b3baf673801c9e59088d4859eb5d32a51a/profile/Imagenes/Diagrama%20de%20bloques%201.png" />
+</p>
+---
 ## Equipos y abreviaturas
 
 Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Nacional de Colombia.
