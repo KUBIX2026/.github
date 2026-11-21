@@ -166,12 +166,13 @@ Flujo de control general y secuencia de funcionamiento del sistema.
 <!-- Agregar: Diagrama de flujo general del proyecto, diagramas especificos de caseccion por asignacion de grupo, diagramas de bloques y de mas que consideremos   -->
 ---
 <p align="center">
-<img width="50%" alt="Diagrama de Bloques Desglose" src="https://raw.githubusercontent.com/KUBIX2026/.github/bbd6a3b3baf673801c9e59088d4859eb5d32a51a/profile/Imagenes/Diagrama%20de%20bloques%201.png" />
+<img width="977" height="1540" alt="Diagrama de Bloques general" src="https://github.com/KUBIX2026/.github/blob/main/profile/Diagramas/Diagrama%20de%20bloques%20general.svg" />
 </p>
 
 <p align="center">
-<img width="50%" alt="Diagrama de Bloques Desglose" src="https://github.com/KUBIX2026/.github/blob/main/profile/Diagramas/Diagrama%20de%20bloques%20general.svg" />
+<img width="50%" alt="Diagrama de Bloques Desglose" src="https://raw.githubusercontent.com/KUBIX2026/.github/bbd6a3b3baf673801c9e59088d4859eb5d32a51a/profile/Imagenes/Diagrama%20de%20bloques%201.png" />
 </p>
+
 
 ---
 ## Equipos y abreviaturas
